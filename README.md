@@ -7,9 +7,6 @@ Welcome to **CloudFight**, an action-packed gaming platform designed for players
 - **🏆 Competitive Battles** – Engage in thrilling real-time multiplayer fights.
 - **🎮 Diverse Game Modes** – Play solo, team up with friends, or join ranked matches.
 - **🚀 Cloud Gaming Support** – Enjoy seamless, high-performance gaming without downloads.
-- **🛡️ Customizable Characters** – Unlock skins, weapons, and power-ups to enhance gameplay.
-- **📈 Leaderboards & Stats** – Track your progress and climb the global rankings.
-- **💬 Community & Chat** – Connect with players, form teams, and strategize in real-time.
 - **📱 Cross-Platform Support** – Play on PC, mobile, or tablet without losing progress.
 
 ## 🛠️ Tech Stack

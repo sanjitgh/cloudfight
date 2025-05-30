@@ -11,17 +11,8 @@ Welcome to **CloudFight**, an action-packed gaming platform designed for players
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML,CSS,JS,BOOTSTRAP,JQUERY
+- **Frontend:** HTML, CSS ,JS, BOOTSTRAP, JQUERY
 - **Hosting:** Github
-
-
-## 🎮 How to Play
-
-1. Sign up and create your gaming profile.
-2. Choose a game mode and start a match.
-3. Customize your character with skins and power-ups.
-4. Compete in battles and climb the leaderboards.
-5. Connect with the community and build your team.
 
 
 ## 🤝 Contributing
